@@ -10,4 +10,4 @@ make this book mark
 ```js
 javascript:fetch("https://raw.githubusercontent.com/3kh0/ext-remover/main/bookmark.js").then(data=>{data.text().then(text=>{eval(text)})});
 ```
-copy and paste this into there iheobagjkfklnlikgihanlhcddjoihkg, cgbbbjmgdpnifijconhamggjehlamcif
+copy and paste this into there `iheobagjkfklnlikgihanlhcddjoihkg, cgbbbjmgdpnifijconhamggjehlamcif`
